@@ -1,0 +1,3 @@
+{
+	"extends": "@casentino-ui/tsconfig/react-library"
+}
